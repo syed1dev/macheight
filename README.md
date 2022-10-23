@@ -14,7 +14,7 @@ $ pip install pytest
 ```
 
 
-###App Run
+### App Run
 Once the dependency is installed we could easily run the app by providing it with system arguments.
 ```sh
 $ python app.py 1,9,5,0,20,-4,12,16,7 12
